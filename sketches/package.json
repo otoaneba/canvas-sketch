@@ -12,9 +12,10 @@
   "dependencies": {
     "canvas-sketch": "^0.7.7",
     "canvas-sketch-util": "^1.10.0",
-    "tweakpane": "^4.0.1"
+    "tweakpane": "^3.1.0"
   },
   "devDependencies": {
-    "@ffmpeg-installer/ffmpeg": "^1.1.0"
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "babel-preset-es2015": "^6.24.1"
   }
 }
